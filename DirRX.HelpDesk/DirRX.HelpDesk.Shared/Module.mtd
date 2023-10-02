@@ -21,40 +21,18 @@
     "Header": {
       "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
       "BackgroundPosition": "Stretch"
-    }
     },
     "Tabs": []
   },
-  "Dependencies": [
-    {
-      "Id": "13e8b787-7077-4240-89c6-75774e584e2d",
-      "IsSolutionModule": true,
-      "MaxVersion": "",
-      "MinVersion": ""
-    }
-  ],
   "ExplorerTreeOrder": [
     {
-      "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+      "ItemId": "c17f3c68-7660-482b-a025-8d077a3b4d25"
     },
     {
-      "ItemId": "a80f1960-9b89-4f62-b4f4-421bc53668bd",
-      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
-    },
-    {
-      "ItemId": "76370d8e-857c-4837-bd2b-f9de2ee8ca01",
-      "PreviousItemId": "a80f1960-9b89-4f62-b4f4-421bc53668bd"
-    },
-    {
-      "ItemId": "0acfbe4d-3779-40fd-bab1-bdfd0d68c6d7",
-      "PreviousItemId": "76370d8e-857c-4837-bd2b-f9de2ee8ca01"
-    },
-    {
-      "ItemId": "c17f3c68-7660-482b-a025-8d077a3b4d25",
-      "PreviousItemId": "0acfbe4d-3779-40fd-bab1-bdfd0d68c6d7"
+      "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813",
+      "PreviousItemId": "c17f3c68-7660-482b-a025-8d077a3b4d25"
     }
   ],
-  "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "InterfaceNamespace": "DirRX.HelpDesk",
@@ -63,7 +41,6 @@
   "PublicStructures": [],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.HelpDesk",
-  "ResourcesKeys": [],
   "ServerAssemblyName": "DirRX.HelpDesk.Server",
   "ServerNamespace": "DirRX.HelpDesk.Server",
   "SharedAssemblyName": "DirRX.HelpDesk.Shared",
@@ -74,7 +51,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 6
+      "Number": 8
     },
     {
       "Type": "DomainApi",
